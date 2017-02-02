@@ -16,7 +16,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "ms": "^0.7.1",
-    "ratelimiter": "^2.1.2",
+    "ratelimiter": "git+ssh://git@github.com/uphold-forks/node-ratelimiter#82e2ba5db87e296e6cd48c06603b608f935c93cb",
     "thenify": "^3.2.0"
   },
   "devDependencies": {
